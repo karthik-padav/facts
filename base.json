@@ -3,7 +3,7 @@
   "baseUrl": "https://didyouknow-api-fbjin6p5na-uc.a.run.app",
   "logo":"https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
   "app_title":"Did you know?",
-  "showAd": true,
+  "showAd": false,
   "categoryList": [
     {"count": "1000+ Facts", "image": "animals_bg", "title": "Random",
       "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/random_bg.png",
