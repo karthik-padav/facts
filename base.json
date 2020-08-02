@@ -10,5 +10,6 @@
   "factsFiles": [1,2,3,4,5],
   "InterstitialPlacementId": "915691155596939_927870027712385",
   "NativePlacementId": "915691155596939_927905057708882",
+  "showAddAfter":10,
   "bannerPlacementId": "915691155596939_915701345595920"
 }
