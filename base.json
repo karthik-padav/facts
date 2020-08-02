@@ -4,43 +4,7 @@
   "logo":"https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
   "app_title":"Did you know?",
   "showAd": false,
-  "categoryList": [
-    {"count": "1000+ Facts", "image": "animals_bg", "title": "Random",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/random_bg.png",
-      "code": "random"},
-    {
-      "count": "1000+ Facts",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/interesting_bg.png",
-      "title": "Interesting",
-      "code": "interesting"
-    },
-    {
-      "count": "1000+ Facts",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/funny_bg.png",
-      "title": "Funny",
-      "code": "funny"
-    },
-    {
-      "count": "1000+ Facts",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/animals_bg.png",
-      "title": "Animal",
-      "code": "animal"
-    },
-    {
-      "count": "1000+ Facts",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/food_bg.png",
-      "title": "Food",
-      "code": "food"
-    },
-    {
-      "count": "1000+ Facts",
-      "image": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/sports_bg.png",
-      "title": "Sports",
-      "code": "sports"
-    }
-  ],
-  "privacy": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   "version": "0.0.2",
   "forceUpdate": false,
-  "playStoreUrl": ""
+  "factsUrl: "https://raw.githubusercontent.com/karthik-padav/facts/master/json"
 }
