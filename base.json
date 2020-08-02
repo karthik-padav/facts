@@ -6,5 +6,5 @@
   "showAd": false,
   "version": "0.0.2",
   "forceUpdate": false,
-  "factsUrl: "https://raw.githubusercontent.com/karthik-padav/facts/master/json"
+  "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json"
 }
