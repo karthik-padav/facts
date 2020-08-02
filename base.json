@@ -7,5 +7,8 @@
   "version": "0.0.2",
   "forceUpdate": false,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
-  "factsFiles": [1,2,3,4,5]
+  "factsFiles": [1,2,3,4,5],
+  "InterstitialPlacementId": '915691155596939_927870027712385',
+  "NativePlacementId": '915691155596939_927905057708882',
+  "bannerPlacementId": '915691155596939_915701345595920'
 }
