@@ -1,0 +1,501 @@
+[
+  {
+    "category": "interesting",
+    "title": "In Texas, it is illegal to put graffiti on someone else's cow.",
+    "_id": "5c8720b01fa1850d3cbb5bb1"
+  },
+  {
+    "category": "interesting",
+    "title": "Baby robins eat 14 feet of earthworms every day",
+    "_id": "5c85cf301fa1850d3cbb5baf"
+  },
+  {
+    "category": "interesting",
+    "title": "An inch of snow falling evenly on one acre of ground is equivalent to about 2715 gallons of water.",
+    "_id": "5c847db01fa1850d3cbb5baa"
+  },
+  {
+    "category": "interesting",
+    "title": "Mexico City sinks about 10 inches a year",
+    "_id": "5c832c301fa1850d3cbb5ba7"
+  },
+  {
+    "category": "interesting",
+    "title": "Present population of 5 billion plus people of the world is predicted to become 15 billion by 2080.",
+    "_id": "5c81dab01fa1850d3cbb5ba3"
+  },
+  {
+    "category": "interesting",
+    "title": "Bamboo (the world's tallest grass) can grow up to 90 cm in a day.",
+    "_id": "5c8089301fa1850d3cbb5b9b"
+  },
+  {
+    "category": "interesting",
+    "title": "A man will ejaculate approximately 18 quarts of semen in his lifetime.",
+    "_id": "5c7f37b01fa1850d3cbb5b98"
+  },
+  {
+    "category": "interesting",
+    "title": "Lassie' was played by a group of male dogs; the main one was named Pal.",
+    "_id": "5c79f1b01fa1850d3cbb5b92"
+  },
+  {
+    "category": "interesting",
+    "title": "The first license plate on a car in the United States was issued in Denver, Colorado in 1908.",
+    "_id": "5c774eb01fa1850d3cbb5b89"
+  },
+  {
+    "category": "interesting",
+    "title": "Claustrophobia is the fear of small spaces.",
+    "_id": "5c75fd301fa1850d3cbb5b7e"
+  },
+  {
+    "category": "interesting",
+    "title": "It was once against the law to slam your car door in a city in Switzerland.",
+    "_id": "5c74abb01fa1850d3cbb5b7d"
+  },
+  {
+    "category": "interesting",
+    "title": "In Papua New Guinea, there are villages within five miles of each other which speak different languages.",
+    "_id": "5c7208b01fa1850d3cbb5b7a"
+  },
+  {
+    "category": "interesting",
+    "title": "The average person laughs 10 times a day!",
+    "_id": "5c70b7301fa1850d3cbb5b79"
+  },
+  {
+    "category": "interesting",
+    "title": "In most advertisements, including newspapers, the time displayed on a watch is 10:10.",
+    "_id": "5c6f65b01fa1850d3cbb5b74"
+  },
+  {
+    "category": "interesting",
+    "title": "Fish that live more than 800 meters below the ocean surface don't have eyes.",
+    "_id": "5c6e14301fa1850d3cbb5b72"
+  },
+  {
+    "category": "interesting",
+    "title": "Americans are responsible for about 1/5 of the world’s garbage annually.",
+    "_id": "5c6cc2b01fa1850d3cbb5b65"
+  },
+  {
+    "category": "interesting",
+    "title": "Cats have over one hundred vocal sounds; dogs only have about ten.",
+    "_id": "5c6b71301fa1850d3cbb5b5b"
+  },
+  {
+    "category": "interesting",
+    "title": "They NEVER said 'Beam me up, Scotty' on Star Trek.",
+    "_id": "5c68ce301fa1850d3cbb5b50"
+  },
+  {
+    "category": "interesting",
+    "title": "The Simpsons is the longest running animated series on TV.",
+    "_id": "5c677cb01fa1850d3cbb5b46"
+  },
+  {
+    "category": "interesting",
+    "title": "While in Alcatraz, Al Capone was inmate 85.",
+    "_id": "5c64d9b01fa1850d3cbb5b42"
+  },
+  {
+    "category": "interesting",
+    "title": "Britain's shortest river is the Brun which runs through Burnley in Lancashire.",
+    "_id": "5c6388301fa1850d3cbb5b3e"
+  },
+  {
+    "category": "interesting",
+    "title": "The sixth sick sheik’s sixth sheep’s sick' is said to be the toughest tongue twister in English.",
+    "_id": "5c6236b01fa1850d3cbb5b38"
+  },
+  {
+    "category": "interesting",
+    "title": "Julius Caesar’s autograph is worth about $2,000,000.",
+    "_id": "5c60e5301fa1850d3cbb5b2c"
+  },
+  {
+    "category": "interesting",
+    "title": "750ml of blood pumps through your brain every minute which is 15-20% of blood flow from the heart.",
+    "_id": "5c5e42301fa1850d3cbb5b1a"
+  },
+  {
+    "category": "interesting",
+    "title": "Earthworms have 5 hearts.",
+    "_id": "5c5cf0b01fa1850d3cbb5b15"
+  },
+  {
+    "category": "interesting",
+    "title": "Flies jump backwards during takeoff.",
+    "_id": "5c5b9f301fa1850d3cbb5b12"
+  },
+  {
+    "category": "interesting",
+    "title": "Camel’s have three eyelids.",
+    "_id": "5c5a4db01fa1850d3cbb5b0a"
+  },
+  {
+    "category": "interesting",
+    "title": "315 entries in Webster’s 1996 dictionary were misspelled.",
+    "_id": "5c58fc301fa1850d3cbb5b09"
+  },
+  {
+    "category": "interesting",
+    "title": "The Beetham Tower cost over £150 million to build.",
+    "_id": "5c57aab01fa1850d3cbb5b02"
+  },
+  {
+    "category": "interesting",
+    "title": "A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.",
+    "_id": "5c5659301fa1850d3cbb5aff"
+  },
+  {
+    "category": "interesting",
+    "title": "A cesium atom in an atomic clock beats 9,192,631,770 times a second.",
+    "_id": "5c53b6301fa1850d3cbb5af4"
+  },
+  {
+    "category": "interesting",
+    "title": "Shakespeare invented the words 'assassination' and 'bump.'",
+    "_id": "5c5264b01fa1850d3cbb5af2"
+  },
+  {
+    "category": "interesting",
+    "title": "Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.",
+    "_id": "5c5113301fa1850d3cbb5aeb"
+  },
+  {
+    "category": "interesting",
+    "title": "Yo-yos were used as weapons by warriors in the Philippines in the 16th century.",
+    "_id": "5c4fc1b01fa1850d3cbb5ae3"
+  },
+  {
+    "category": "interesting",
+    "title": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
+    "_id": "5c4e70301fa1850d3cbb5ae2"
+  },
+  {
+    "category": "interesting",
+    "title": "Did you know you share a birthday with at least nine other million people in the world?",
+    "_id": "5c4d1eb01fa1850d3cbb5ad3"
+  },
+  {
+    "category": "interesting",
+    "title": "A shark is the only fish that can blink with both eyes.",
+    "_id": "5c4bcd301fa1850d3cbb5ad2"
+  },
+  {
+    "category": "interesting",
+    "title": "Alabama was the first state to recognize Christmas as an official holiday.",
+    "_id": "5c492a301fa1850d3cbb5ab7"
+  },
+  {
+    "category": "interesting",
+    "title": "Most lipstick contains fish scales.",
+    "_id": "5c47d8b01fa1850d3cbb5aa5"
+  },
+  {
+    "category": "interesting",
+    "title": "On a Canadian two-dollar bill, the American flag is flying over the Parliament Building.",
+    "_id": "5c4535b01fa1850d3cbb5aa3"
+  },
+  {
+    "category": "interesting",
+    "title": "There are 336 dimples on a regulation US golf ball. In the UK its 330.",
+    "_id": "5c4292b01fa1850d3cbb5aa0"
+  },
+  {
+    "category": "interesting",
+    "title": "In the United States, more Frisbee discs are sold each year than baseballs, basketballs, and footballs combined.",
+    "_id": "5c4141301fa1850d3cbb5a9b"
+  },
+  {
+    "category": "interesting",
+    "title": "Dibble means to drink like a duck.",
+    "_id": "5c3fefb01fa1850d3cbb5a95"
+  },
+  {
+    "category": "interesting",
+    "title": "In Iceland, a Big Mac costs $5.50.",
+    "_id": "5c3e9e301fa1850d3cbb5a74"
+  },
+  {
+    "category": "interesting",
+    "title": "In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.",
+    "_id": "5c3d4cb01fa1850d3cbb5a6b"
+  },
+  {
+    "category": "interesting",
+    "title": "1 in 5 of the world's doctors are Russian.",
+    "_id": "5c3bfb301fa1850d3cbb5a60"
+  },
+  {
+    "category": "interesting",
+    "title": "About 55% of all movies are rated R.",
+    "_id": "5c3aa9b01fa1850d3cbb5a5d"
+  },
+  {
+    "category": "interesting",
+    "title": "Great Britain was the first county to issue postage stamps. Hence, the postage stamps of Britain are the only stamps in the world not to bear the name of the country of origin. However, every stamp carries a relief image or a silhouette of the monarch's head instead.",
+    "_id": "5c3958301fa1850d3cbb5a5c"
+  },
+  {
+    "category": "interesting",
+    "title": "A pregnant goldfish is called a twit.",
+    "_id": "5c3806b01fa1850d3cbb5a56"
+  },
+  {
+    "category": "interesting",
+    "title": "Any Female bee in a beehive could have been the queen if she had been fed the necessary royal jelly. All female bees in a given hive are sisters.",
+    "_id": "5c36b5301fa1850d3cbb5a50"
+  },
+  {
+    "category": "interesting",
+    "title": "An estimated 80% of animals on Earth have six legs.",
+    "_id": "5c3412301fa1850d3cbb5a4c"
+  },
+  {
+    "category": "interesting",
+    "title": "Termites outweigh humans by almost ten to one.",
+    "_id": "5c32c0b01fa1850d3cbb5a4b"
+  },
+  {
+    "category": "interesting",
+    "title": "Antarctica has no native population.",
+    "_id": "5c316f321fa1850d3cbb5a47"
+  },
+  {
+    "category": "interesting",
+    "title": "On average, 12 newborns will be given to the wrong parents every day.",
+    "_id": "5c301db01fa1850d3cbb5a46"
+  },
+  {
+    "category": "interesting",
+    "title": "Bookkeeper is the only word in the English language with three consecutive double letters.",
+    "_id": "5c2ecc301fa1850d3cbb5a45"
+  },
+  {
+    "category": "interesting",
+    "title": "Certain species of male butterflies produce scents that serve in attracting females during courtship.",
+    "_id": "5c2d7ab01fa1850d3cbb5a44"
+  },
+  {
+    "category": "interesting",
+    "title": "A crocodiles tongue is attached to the roof of its mouth.",
+    "_id": "5c298630fdc12b0c019f8d88"
+  },
+  {
+    "category": "interesting",
+    "title": "The youngest pope ever was 11 years old.",
+    "_id": "5c2834b0fdc12b0c019f8d87"
+  },
+  {
+    "category": "interesting",
+    "title": "In Tokyo, they sell toupees for dogs.",
+    "_id": "5c26e330fdc12b0c019f8d86"
+  },
+  {
+    "category": "interesting",
+    "title": "Blondes have more hair than dark-haired people do.",
+    "_id": "5c244030fdc12b0c019f8d84"
+  },
+  {
+    "category": "interesting",
+    "title": "There are 45 miles of nerves in the skin of a human being.",
+    "_id": "5c22eeb0fdc12b0c019f8d83"
+  },
+  {
+    "category": "interesting",
+    "title": "In every episode of Seinfeld there is a Superman somewhere.",
+    "_id": "5c219d30fdc12b0c019f8d82"
+  },
+  {
+    "category": "interesting",
+    "title": "Hawaii is the only coffee producing state.",
+    "_id": "5c204bb0fdc12b0c019f8d7e"
+  },
+  {
+    "category": "interesting",
+    "title": "A penny whistle has six finger holes.",
+    "_id": "5c1efa30fdc12b0c019f8d7d"
+  },
+  {
+    "category": "interesting",
+    "title": "0.3% of all road accidents in Canada involve a Moose.",
+    "_id": "5c1da8b0fdc12b0c019f8d7c"
+  },
+  {
+    "category": "interesting",
+    "title": "Common Cobra venom is not on the list of top 10 venoms yet it is still 40 times more toxic than cyanide.",
+    "_id": "5c1c5730fdc12b0c019f8d79"
+  },
+  {
+    "category": "interesting",
+    "title": "Cuba is the only island in the Caribbean to have a railroad.",
+    "_id": "5c1b05b0fdc12b0c019f8d73"
+  },
+  {
+    "category": "interesting",
+    "title": "Cleveland spelled backwards is DNA level C.",
+    "_id": "5c1862b0fdc12b0c019f8d6f"
+  },
+  {
+    "category": "interesting",
+    "title": "Georgia's state motto is 'Wisdom, Justice and Moderation.'",
+    "_id": "5c171130fdc12b0c019f8d6e"
+  },
+  {
+    "category": "interesting",
+    "title": "The longest one-syllable word in the English language is 'screeched.' ",
+    "_id": "5c15bfb0fdc12b0c019f8d6c"
+  },
+  {
+    "category": "interesting",
+    "title": "There are more than 10 million bricks in the Empire State Building.",
+    "_id": "5c146e30fdc12b0c019f8d6a"
+  },
+  {
+    "category": "interesting",
+    "title": "A snail takes 33 hours to crawl one mile.",
+    "_id": "5c131cb0fdc12b0c019f8d69"
+  },
+  {
+    "category": "interesting",
+    "title": "The strongest muscle in the human body is the tongue. (the heart is not a muscle)",
+    "_id": "5c1079b0fdc12b0c019f8d63"
+  },
+  {
+    "category": "interesting",
+    "title": "A group of goats is called a Trip.",
+    "_id": "5c0f2830fdc12b0c019f8d62"
+  },
+  {
+    "category": "interesting",
+    "title": "In Alaska it is illegal to shoot at a moose from the window of an aeroplane or other flying vehicle.",
+    "_id": "5c0dd6b0fdc12b0c019f8d5f"
+  },
+  {
+    "category": "interesting",
+    "title": "The house fly hums in the middle octave key of F. ",
+    "_id": "5c0c8530fdc12b0c019f8d5e"
+  },
+  {
+    "category": "interesting",
+    "title": "A hamlet is a village without a church and a town is not a city until it has a cathedral.",
+    "_id": "5c0b33b0fdc12b0c019f8d5d"
+  },
+  {
+    "category": "interesting",
+    "title": "The Falkland Isles (pop. about 2000) has over 700000 sheep (350 per person).",
+    "_id": "5c09e230fdc12b0c019f8d58"
+  },
+  {
+    "category": "interesting",
+    "title": "Karoke means empty orchestra in Japanese.",
+    "_id": "5c073f30fdc12b0c019f8d52"
+  },
+  {
+    "category": "interesting",
+    "title": "Hannibal had only one eye after getting a disease while attacking Rome.",
+    "_id": "5c05edb0fdc12b0c019f8d4e"
+  },
+  {
+    "category": "interesting",
+    "title": "If a statue in the park of a person on a horse has both front legs in the air, person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.",
+    "_id": "5c049c30fdc12b0c019f8d4d"
+  },
+  {
+    "category": "interesting",
+    "title": "One in seven workers in Boston, Massachusetts walks to work.",
+    "_id": "5c034ab0fdc12b0c019f8d48"
+  },
+  {
+    "category": "interesting",
+    "title": "3",
+    "_id": "5c01f930fdc12b0c019f8d46"
+  },
+  {
+    "category": "interesting",
+    "title": "Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week.",
+    "_id": "5c00a7b0fdc12b0c019f8d45"
+  },
+  {
+    "category": "interesting",
+    "title": "Go. is the shortest complete sentence in the English language.",
+    "_id": "5bff5630fdc12b0c019f8d41"
+  },
+  {
+    "category": "interesting",
+    "title": "Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.",
+    "_id": "5bfe04b0fdc12b0c019f8d3e"
+  },
+  {
+    "category": "interesting",
+    "title": "In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.",
+    "_id": "5bfcb330fdc12b0c019f8d3d"
+  },
+  {
+    "category": "interesting",
+    "title": "In Jasmine, Saskatchewan, it is illegal for a cow to moo within 300 km of a private home.",
+    "_id": "5bfb61b0fdc12b0c019f8d3a"
+  },
+  {
+    "category": "interesting",
+    "title": "Every minute 47 bibles are sold or distributed throughout the world.",
+    "_id": "5bfa1030fdc12b0c019f8d39"
+  },
+  {
+    "category": "interesting",
+    "title": "Buckingham Palace has over 600 rooms.",
+    "_id": "5bf8beb0fdc12b0c019f8d38"
+  },
+  {
+    "category": "interesting",
+    "title": "In Utah, it is illegal to swear in front of a dead person.",
+    "_id": "5bf76d30fdc12b0c019f8d37"
+  },
+  {
+    "category": "interesting",
+    "title": "Most dust particles in your house are made from dead skin!",
+    "_id": "5bf61bb0fdc12b0c019f8d32"
+  },
+  {
+    "category": "interesting",
+    "title": "According to Genesis 1:20-22, the chicken came before the egg.",
+    "_id": "5bf4ca31fdc12b0c019f8d2d"
+  },
+  {
+    "category": "interesting",
+    "title": "In Quebec, there is an old law that states margarine must be a different color than butter.",
+    "_id": "5bf378b0fdc12b0c019f8d29"
+  },
+  {
+    "category": "interesting",
+    "title": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+    "_id": "5bef8430fdc12b0c019f8d22"
+  },
+  {
+    "category": "interesting",
+    "title": "The odds of being born male are about 51.2%, according to census.",
+    "_id": "5beb8fb0fdc12b0c019f8d1b"
+  },
+  {
+    "category": "interesting",
+    "title": "A female ferret will die if it goes into heat and cannot find a mate.",
+    "_id": "5bea3e30fdc12b0c019f8d11"
+  },
+  {
+    "category": "interesting",
+    "title": "Canada is the only country not to win a gold medal in the summer Olympic games while hosting the event.",
+    "_id": "5be8ecb037bd5c7bf91b29bf"
+  },
+  {
+    "category": "interesting",
+    "title": "The toothbrush was invented in China in 1498.",
+    "_id": "5be79b3037bd5c7bf91b29be"
+  },
+  {
+    "category": "interesting",
+    "title": "The original name for butterfly was flutterby.",
+    "_id": "5be649b037bd5c7bf91b29b8"
+  }]
