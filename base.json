@@ -5,7 +5,7 @@
   "app_title":"Did you know?",
   "showAd": false,
   "version": "0.0.3",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
   "factsFiles": [1,2,3,4,5],
   "InterstitialPlacementId": "915691155596939_927870027712385",
