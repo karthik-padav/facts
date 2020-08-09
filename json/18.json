@@ -1,0 +1,502 @@
+[
+  {
+    "category": "animal",
+    "title": "The average housefly only lives for 2 or 3 weeks.",
+    "_id": "572bcb700cf046574a3dc1cc"
+  },
+  {
+    "category": "animal",
+    "title": "There are over 70,000 types of spiders spinning their webs in the world. ",
+    "_id": "572bcb700cf046574a3dc1cb"
+  },
+  {
+    "category": "animal",
+    "title": "Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.",
+    "_id": "572bcb6e0cf046574a3dc1c5"
+  },
+  {
+    "category": "animal",
+    "title": "Locusts have leg muscles that are about 1000 times more powerful than an equal weight of human muscle.",
+    "_id": "572bcb690cf046574a3dc1a8"
+  },
+  {
+    "category": "animal",
+    "title": "If NASA sent birds into space they would soon die; they need gravity to swallow.",
+    "_id": "572bcb650cf046574a3dc197"
+  },
+  {
+    "category": "animal",
+    "title": "Giant Arctic jellyfish have tentacles that can reach over 36 metres in length.",
+    "_id": "572bcb650cf046574a3dc194"
+  },
+  {
+    "category": "animal",
+    "title": "The blue whale can produce the loudest sound of any animal. At 188 decibels, the noise can be detected over 800 kilometres away.",
+    "_id": "572bcb630cf046574a3dc18e"
+  },
+  {
+    "category": "animal",
+    "title": "A male emperor moth can smell a female emperor moth up to 7 miles away.",
+    "_id": "572bcb630cf046574a3dc18d"
+  },
+  {
+    "category": "animal",
+    "title": "Dogs have four toes on their hind feet, and five on their front feet.",
+    "_id": "572bcb5d0cf046574a3dc16e"
+  },
+  {
+    "category": "animal",
+    "title": "Porcupines float in water.",
+    "_id": "572bcb5c0cf046574a3dc16a"
+  },
+  {
+    "category": "animal",
+    "title": "Elephants are the only mamals that can’t jump.",
+    "_id": "572bcb570cf046574a3dc14e"
+  },
+  {
+    "category": "animal",
+    "title": "Even when a snake has its eyes closed, it can still see through its eyelids.",
+    "_id": "572bcb550cf046574a3dc144"
+  },
+  {
+    "category": "animal",
+    "title": "Rats breed so quickly that in just 18 months, 2 rats could have created over 1 million relatives.",
+    "_id": "572bcb490cf046574a3dc109"
+  },
+  {
+    "category": "animal",
+    "title": "Butterflies taste with their feet.",
+    "_id": "572bcb460cf046574a3dc0fa"
+  },
+  {
+    "category": "animal",
+    "title": "There are presently over a million animal species upon planet earth. ",
+    "_id": "572bcb430cf046574a3dc0ed"
+  },
+  {
+    "category": "animal",
+    "title": "A shark can detect one part of blood in 100 million parts of water.",
+    "_id": "572bcb430cf046574a3dc0eb"
+  },
+  {
+    "category": "animal",
+    "title": "The horn of a rhinoceros is made from compacted hair rather than bone or another substance.",
+    "_id": "572bcb420cf046574a3dc0e6"
+  },
+  {
+    "category": "animal",
+    "title": "Instead of bones, sharks have a skeleton made from cartilage.",
+    "_id": "572bcb3e0cf046574a3dc0d3"
+  },
+  {
+    "category": "animal",
+    "title": "Many hamsters only blink one eye at a time.",
+    "_id": "572bcb3d0cf046574a3dc0ce"
+  },
+  {
+    "category": "animal",
+    "title": "A giraffe can clean its ears with its 21-inch tongue!",
+    "_id": "572bcb3c0cf046574a3dc0ca"
+  },
+  {
+    "category": "animal",
+    "title": "Cat’s urine glows under a black light.",
+    "_id": "572bcb3c0cf046574a3dc0c8"
+  },
+  {
+    "category": "animal",
+    "title": "This is a mind-boggling fact – for each of the 600 million people there is about 200 million insects crawling, flying… ",
+    "_id": "572bcb3a0cf046574a3dc0be"
+  },
+  {
+    "category": "animal",
+    "title": "A duck’s quack doesn’t echo, and no one knows why.",
+    "_id": "572bcb350cf046574a3dc0a7"
+  },
+  {
+    "category": "animal",
+    "title": "Despite the white, fluffy appearance of Polar Bears fur, it actually has black skin.",
+    "_id": "572bcb230cf046574a3dc04a"
+  },
+  {
+    "category": "animal",
+    "title": "A shrimp’s heart is in it’s head.",
+    "_id": "572bcb220cf046574a3dc046"
+  },
+  {
+    "category": "animal",
+    "title": "Denmark has twice as many pigs as there are people. ",
+    "_id": "572bcb1e0cf046574a3dc033"
+  },
+  {
+    "category": "animal",
+    "title": "As well as being a famous Looney Tunes character, the Tasmanian Devil is a real animal that is only found in the wild in Tasmania, Australia. It is the largest carnivorous marsupial in the world.",
+    "_id": "572bcb1d0cf046574a3dc02e"
+  },
+  {
+    "category": "animal",
+    "title": "Most lipstick contains fish scales.",
+    "_id": "572bcb1a0cf046574a3dc01d"
+  },
+  {
+    "category": "animal",
+    "title": "Certain frogs can be frozen solid, then thawed, and survive.",
+    "_id": "572bcb140cf046574a3dc003"
+  },
+  {
+    "category": "animal",
+    "title": "Never get a camel angry, for he or she will spit at you. ",
+    "_id": "572bcb020cf046574a3dbfa6"
+  },
+  {
+    "category": "animal",
+    "title": "Sharks lay the biggest eggs in the world.",
+    "_id": "572bcafd0cf046574a3dbf8d"
+  },
+  {
+    "category": "animal",
+    "title": "The crocodile’s tongue is unmovable, as it is attached to the roof of its mouth.",
+    "_id": "572bcafb0cf046574a3dbf84"
+  },
+  {
+    "category": "animal",
+    "title": "The small car on the road is probably the size of the heart of a blue whale. ",
+    "_id": "572bcafb0cf046574a3dbf82"
+  },
+  {
+    "category": "animal",
+    "title": "A duck’s quack doesn’t echo, and no one knows why.",
+    "_id": "572bcafa0cf046574a3dbf7f"
+  },
+  {
+    "category": "animal",
+    "title": "Armadillos are the only animal besides humans that can get leprosy.",
+    "_id": "572bcaf70cf046574a3dbf71"
+  },
+  {
+    "category": "animal",
+    "title": "A crocodile can’t move its tongue and cannot chew. Its digestive juices are so strong that it can digest a steel nail.",
+    "_id": "572bcaf70cf046574a3dbf6e"
+  },
+  {
+    "category": "animal",
+    "title": "A dog was the first animal to up in space. ",
+    "_id": "572bcaf40cf046574a3dbf61"
+  },
+  {
+    "category": "animal",
+    "title": "A pregnant goldfish is called a twit.",
+    "_id": "572bcaf20cf046574a3dbf59"
+  },
+  {
+    "category": "animal",
+    "title": "Cats use their whiskers to check whether a space is too small for them to fit through or not.",
+    "_id": "572bcaee0cf046574a3dbf44"
+  },
+  {
+    "category": "animal",
+    "title": "Mosquitoes can be annoying insects but did you know that it’s only the female mosquito that actually bites humans.",
+    "_id": "572bcaed0cf046574a3dbf3e"
+  },
+  {
+    "category": "animal",
+    "title": "Starfish don’t have brains.",
+    "_id": "572bcae10cf046574a3dbf04"
+  },
+  {
+    "category": "animal",
+    "title": "Hummingbirds are so agile and have such good control that they can fly backwards.",
+    "_id": "572bcadf0cf046574a3dbef8"
+  },
+  {
+    "category": "animal",
+    "title": "The world has approximately one billion cattle, of which about 200 million belong to India. ",
+    "_id": "572bcadf0cf046574a3dbef7"
+  },
+  {
+    "category": "animal",
+    "title": "Mammals are the only creatures that have flaps around their ears. ",
+    "_id": "572bcad50cf046574a3dbec6"
+  },
+  {
+    "category": "animal",
+    "title": "An ostrich is the fastest bird and can run up to 70 km/h. ",
+    "_id": "572bcacf0cf046574a3dbea9"
+  },
+  {
+    "category": "animal",
+    "title": "Unlike humans, sheep have four stomachs, each one helps them digest the food they eat.",
+    "_id": "572bcab70cf046574a3dbe2e"
+  },
+  {
+    "category": "animal",
+    "title": "A pregnant goldfish is called a twit.",
+    "_id": "572bcab10cf046574a3dbe11"
+  },
+  {
+    "category": "animal",
+    "title": "The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they could be confused at a crime scene.",
+    "_id": "572bcaad0cf046574a3dbdff"
+  },
+  {
+    "category": "animal",
+    "title": "Horses and cows sleep while standing up.",
+    "_id": "572bcaa80cf046574a3dbde5"
+  },
+  {
+    "category": "animal",
+    "title": "The life of a housefly is only 14 days. ",
+    "_id": "572bcaa30cf046574a3dbdce"
+  },
+  {
+    "category": "animal",
+    "title": "To escape the grip of a crocodile’s jaws, push your thumbs into its eyeballs – it will let you go instantly.",
+    "_id": "572bcaa20cf046574a3dbdc5"
+  },
+  {
+    "category": "animal",
+    "title": "There are crabs that are the size of a pea. There are known as ‘Pea Crabs’. ",
+    "_id": "572bcaa00cf046574a3dbdbd"
+  },
+  {
+    "category": "animal",
+    "title": "A sheep, a duck and a rooster were the first animals to fly in a hot air balloon. The oldest breed of a dog known to mankind is the ‘Saluki’. ",
+    "_id": "572bcacd0cf046574a3dbe9c"
+  },
+  {
+    "category": "animal",
+    "title": "Humans are the only primates that don’t have pigment in the palms of their hands.",
+    "_id": "572bcacb0cf046574a3dbe96"
+  },
+  {
+    "category": "animal",
+    "title": "Polar bears are left handed.",
+    "_id": "572bcac80cf046574a3dbe83"
+  },
+  {
+    "category": "animal",
+    "title": "The reptiles have 6,000 species crawling in their habitats; and more are discovered each year. ",
+    "_id": "572bcac60cf046574a3dbe79"
+  },
+  {
+    "category": "animal",
+    "title": "Well, there are 3,000 kinds of lice. Yes, it is the lice we are prone to get due to lack of hair hygiene. ",
+    "_id": "572bcac30cf046574a3dbe6d"
+  },
+  {
+    "category": "animal",
+    "title": "Orcas (killer whales) kill sharks by torpedoing up into to shark’s stomach from underneath, causing the shark to explode.",
+    "_id": "572bcac20cf046574a3dbe67"
+  },
+  {
+    "category": "animal",
+    "title": "The Sea Horse is the slowest fish, drifting at approximately 0.016 km/h. ",
+    "_id": "572bcabf0cf046574a3dbe56"
+  },
+  {
+    "category": "animal",
+    "title": "An ostrich’s eye is bigger that it’s brain.",
+    "_id": "572bcabe0cf046574a3dbe52"
+  },
+  {
+    "category": "animal",
+    "title": "The sailfish can swim at the speed of 109 km/h, making it the fastest swimmer. ",
+    "_id": "572bcab90cf046574a3dbe39"
+  },
+  {
+    "category": "animal",
+    "title": "The lifespan of 75 percent of wild birds is 6 months. ",
+    "_id": "572bcab70cf046574a3dbe30"
+  },
+  {
+    "category": "food",
+    "title": "Apples, potatoes, and onions all taste the same when eaten with your nose plugged.",
+    "_id": "5ef807b06289d33e9a49bbd5"
+  },
+  {
+    "category": "food",
+    "title": "Strawberries are the only fruit which has its seeds on its outer skin.",
+    "_id": "5ec0a8b0b2958409969446eb"
+  },
+  {
+    "category": "food",
+    "title": "Darker Green lettuce leaves are more nutritious than lighter green leaves.",
+    "_id": "5eb61cb0d6fc8b40e40d7652"
+  },
+  {
+    "category": "food",
+    "title": "When honey is swallowed, it enters the blood stream within a period of 20 minutes.",
+    "_id": "5e86a6b04570f24fba418e28"
+  },
+  {
+    "category": "food",
+    "title": "Eating one meal of fish a week reduces your chances of getting a heart attack by 50%.",
+    "_id": "5e548db0b4fadc6c3ff0124f"
+  },
+  {
+    "category": "food",
+    "title": "The banana plant can grow as high as 20 feet tall. That’s as big as a two-story house!",
+    "_id": "5e533c30b4fadc6c3ff0124b"
+  },
+  {
+    "category": "food",
+    "title": "When an egg floats in water, it is “off” and should not be eaten.",
+    "_id": "5e4f47b016179007a706f37e"
+  },
+  {
+    "category": "food",
+    "title": "Smelling bananas and/or green apples (smelling, not eating) can help you lose weight!",
+    "_id": "5dfd8ab00106c607d9b5c115"
+  },
+  {
+    "category": "food",
+    "title": "40% of McDonald’s profits come from the sales of Happy Meals.",
+    "_id": "5dd8a0b00106c607d9b5c0ce"
+  },
+  {
+    "category": "food",
+    "title": "Every person has a unique tongue print.",
+    "_id": "5d8eccb09cb21b0faaf1a0f6"
+  },
+  {
+    "category": "food",
+    "title": "Coca Cola was originally green.",
+    "_id": "5d367830a6b1f2598b7004d8"
+  },
+  {
+    "category": "food",
+    "title": "Almost all lettuce is packed right in the field.",
+    "_id": "5d2d3db0a6b1f2598b7004d1"
+  },
+  {
+    "category": "food",
+    "title": "If you put a raisin in a glass of champagne, it will keep floating to the top and sinking to the bottom.",
+    "_id": "5d197730a6b1f2598b7004b0"
+  },
+  {
+    "category": "food",
+    "title": "A watermelon is over 92% water by weight.",
+    "_id": "5cfc7630a6b1f2598b700464"
+  },
+  {
+    "category": "food",
+    "title": "Chocolate can kill dogs; it directly affects their heart and nervous system.",
+    "_id": "5ceca430a6b1f2598b70044b"
+  },
+  {
+    "category": "food",
+    "title": "Banana trees are not actually trees – they are giant herbs.",
+    "_id": "5ce0c6b01b72c81d24070e43"
+  },
+  {
+    "category": "food",
+    "title": "Banana’s are most likely the first fruit ever to be grown on a farm.",
+    "_id": "5c7c94b01fa1850d3cbb5b95"
+  },
+  {
+    "category": "food",
+    "title": "In Tibet, a common drink is butter tea – it is made from yak butter, salt, and tea.",
+    "_id": "5c4a7bb01fa1850d3cbb5abe"
+  },
+  {
+    "category": "food",
+    "title": "A typical banana travels 4,000 miles before being eaten.",
+    "_id": "5c43e4301fa1850d3cbb5aa1"
+  },
+  {
+    "category": "food",
+    "title": "Apples, potatoes, and onions all taste the same when eaten with your nose plugged.",
+    "_id": "5c3563b01fa1850d3cbb5a4d"
+  },
+  {
+    "category": "food",
+    "title": "No one really knows when donuts were invented or who invented them.",
+    "_id": "5bf22730fdc12b0c019f8d27"
+  },
+  {
+    "category": "food",
+    "title": "Pearls melt in vinegar.",
+    "_id": "5bee32b0fdc12b0c019f8d1e"
+  },
+  {
+    "category": "food",
+    "title": "The consumption of natural vanilla causes the body to release catecholamines (including adrenalin) – for this reason it is considered to be mildly addictive.",
+    "_id": "5be3a6b037bd5c7bf91b29b5"
+  },
+  {
+    "category": "food",
+    "title": "Eating lemons make you live longer.",
+    "_id": "5bda6c3037bd5c7bf91b29ad"
+  },
+  {
+    "category": "food",
+    "title": "Blueberries will not ripen until they are picked.",
+    "_id": "592282fd9c69979539589720"
+  },
+  {
+    "category": "food",
+    "title": "You can plant a pineapple by slicing off the top and planting it in the soil.",
+    "_id": "58e681d49c69979539589607"
+  },
+  {
+    "category": "food",
+    "title": "Avocados have the highest fibre and calories of any fruit.",
+    "_id": "585ca488aedebe8e6bc408e3"
+  },
+  {
+    "category": "food",
+    "title": "An average person’s yearly fast food intake will contain 12 pubic hairs.",
+    "_id": "57322cfd23d79cbe6373e623"
+  },
+  {
+    "category": "food",
+    "title": "When an egg floats in water, it is “off” and should not be eaten.",
+    "_id": "572bcb850cf046574a3dc235"
+  },
+  {
+    "category": "food",
+    "title": "If you put a raisin in a glass of champagne, it will keep floating to the top and sinking to the bottom.",
+    "_id": "572bcb7b0cf046574a3dc206"
+  },
+  {
+    "category": "food",
+    "title": "Pearls melt in vinegar.",
+    "_id": "572bcb760cf046574a3dc1ea"
+  },
+  {
+    "category": "food",
+    "title": "Lettuce is a member of the sunflower family.",
+    "_id": "572bcb750cf046574a3dc1e6"
+  },
+  {
+    "category": "food",
+    "title": "A watermelon is over 92% water by weight.",
+    "_id": "572bcb730cf046574a3dc1dc"
+  },
+  {
+    "category": "food",
+    "title": "No one really knows when donuts were invented or who invented them.",
+    "_id": "572bcb720cf046574a3dc1d6"
+  },
+  {
+    "category": "food",
+    "title": "In Tibet, a common drink is butter tea – it is made from yak butter, salt, and tea.",
+    "_id": "572bcb6c0cf046574a3dc1bb"
+  },
+  {
+    "category": "food",
+    "title": "Americans eat about 30 pounds of lettuce every year. That’s about five times more than what we ate in the early 1900s.",
+    "_id": "572bcb690cf046574a3dc1ab"
+  },
+  {
+    "category": "food",
+    "title": "There are more than 7,000 varieties of apples grown in the world.",
+    "_id": "572bcb5f0cf046574a3dc179"
+  },
+  {
+    "category": "food",
+    "title": "Apples, potatoes, and onions all taste the same when eaten with your nose plugged.",
+    "_id": "572bcb5d0cf046574a3dc170"
+  }
+]
