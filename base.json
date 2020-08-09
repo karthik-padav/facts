@@ -7,7 +7,7 @@
   "version": "0.0.3",
   "forceUpdate": true,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
-  "factsFiles": [1,2,3,4,5],
+  "factsFiles": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
   "InterstitialPlacementId": "915691155596939_927870027712385",
   "showInterstitialAdsAfter":3,
   "showInterstitialAds":true,
