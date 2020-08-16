@@ -30,9 +30,9 @@
 18
 ],
 "factsLists":[{
-  "name":"Plant earth",
-  "code":"planet_eart",
-  "location":"/json/plant_eart",
+  "name":"Planet earth",
+  "code":"planet_earth",
+  "location":"/json/planet_earth",
   "thumbnail":"/assets/images/animals_bg.png",
   "id":"1",
   "fileList":[1,2]
