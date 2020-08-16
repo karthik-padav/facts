@@ -1,6 +1,7 @@
 {
   "about": ["Did You Know provides you Unlimited Daily Interesting and Informative Facts. All facts in the app are available in public domains."],
-  "baseUrl": "https://didyouknow-api-fbjin6p5na-uc.a.run.app",
+  "baseUrl_backup": "https://didyouknow-api-fbjin6p5na-uc.a.run.app",
+  "baseUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master",
   "logo":"https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
   "app_title":"Did you know?",
   "showAd": false,
@@ -8,6 +9,19 @@
   "forceUpdate": true,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
   "factsFiles": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18],
+  "factsLists":[{
+  "name":"Intresting",
+  "code":"intresting",
+  "thumbnail":"/assets/images/animals_bg.png",
+  "id":"1",
+  "fileList":[1,2]
+},{
+  "name":"Animals",
+  "code":"animals",
+  "thumbnail":"/assets/images/animals_bg.png",
+  "id":"2",
+  "fileList":[1,2]
+}],
   "InterstitialPlacementId": "915691155596939_927870027712385",
   "showInterstitialAdsAfter":3,
   "showInterstitialAds":true,
