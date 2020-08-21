@@ -1,55 +1,82 @@
 {
-"about": [
-"Did You Know provides you Unlimited Daily Interesting and Informative Facts. All facts in the app are available in public domains."
-],
-"baseUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master",
-"logo": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
-"app_title": "Did you know?",
-"showAd": false,
-"version": "0.0.3",
-"forceUpdate": true,
-"factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
-"factsFiles": [
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-17,
-18
-],
-"factsLists":[{
-  "name":"Planet Earth",
-  "code":"planet_earth",
-  "location":"/json/planet_earth",
-  "thumbnail":"/assets/images/animals_bg.png",
-  "id":"1",
-  "fileList":[1,2]
-},{
-  "name":"Animals",
-  "code":"animals",
-  "location":"/json/animals",
-  "thumbnail":"/assets/images/animals_bg.png",
-  "id":"2",
-  "fileList":[1,2]
-}],
-"InterstitialPlacementId": "915691155596939_927870027712385",
-"showInterstitialAdsAfter": 3,
-"showInterstitialAds": true,
-"nativePlacementId": "915691155596939_927905057708882",
-"showNativeAds": true,
-"showNativeAdsAfter": 4,
-"bannerPlacementId": "915691155596939_915701345595920",
-"showBannerAds": false
+  "about": [
+    "Did You Know provides you Unlimited Daily Interesting and Informative Facts. All facts in the app are available in public domains."
+  ],
+  "baseUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master",
+  "logo": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
+  "app_title": "Did you know?",
+  "showAd": false,
+  "version": "0.0.3",
+  "forceUpdate": true,
+  "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
+  "factsFiles": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "factsLists": [
+    {
+      "name": "Intresting",
+      "code": "interesting",
+      "location": "/json/interesting",
+      "thumbnail": "/assets/images/interesting_bg.png",
+      "id": "1",
+      "fileList": [
+        1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+      ]
+    },
+    {
+      "name": "Animals",
+      "code": "animals",
+      "location": "/json/animals",
+      "thumbnail": "/assets/images/animals_bg.png",
+      "id": "2",
+      "fileList": [
+        1,2,3,4,5,6,7
+      ]
+    },
+    {
+      "name": "Planet Earth",
+      "code": "planet_earth",
+      "location": "/json/planet_earth",
+      "thumbnail": "/assets/images/planet_earth_bg.png",
+      "id": "3",
+      "fileList": [
+        1,2,3,4
+      ]
+    },
+    {
+      "name": "Food",
+      "code": "food",
+      "location": "/json/food",
+      "thumbnail": "/assets/images/food_bg.png",
+      "id": "4",
+      "fileList": [
+        1
+      ]
+    }
+  ],
+  "InterstitialPlacementId": "915691155596939_927870027712385",
+  "showInterstitialAdsAfter": 3,
+  "showInterstitialAds": true,
+  "nativePlacementId": "915691155596939_927905057708882",
+  "showNativeAds": true,
+  "showNativeAdsAfter": 4,
+  "bannerPlacementId": "915691155596939_915701345595920",
+  "showBannerAds": false
 }
