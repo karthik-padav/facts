@@ -76,7 +76,7 @@
   "showInterstitialAds": true,
   "nativePlacementId": "915691155596939_927905057708882",
   "showNativeAds": true,
-  "showNativeAdsAfter": 4,
+  "showNativeAdsAfter": 8,
   "bannerPlacementId": "915691155596939_915701345595920",
   "showBannerAds": false
 }
