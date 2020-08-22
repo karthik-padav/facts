@@ -7,6 +7,7 @@
   "app_title": "Did you know?",
   "showAd": false,
   "version": "0.0.3",
+  "versionCode":9,
   "forceUpdate": true,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
   "factsFiles": [
