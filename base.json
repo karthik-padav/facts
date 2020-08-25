@@ -6,8 +6,8 @@
   "logo": "https://raw.githubusercontent.com/karthik-padav/facts/master/assets/images/ic_launcher.png",
   "app_title": "Did you know?",
   "showAd": false,
-  "version": "0.0.5",
-  "stableVersionCode":9,
+  "version": "0.0.4",
+  "stableVersionCode":11,
   "forceUpdate": true,
   "factsUrl": "https://raw.githubusercontent.com/karthik-padav/facts/master/json",
   "factsFiles": [
